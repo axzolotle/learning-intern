@@ -1,0 +1,11 @@
+customer_id,name,age,gender,employment_status,income,city,signup_date
+1,Andi,25,Male,employed,5000000,Jakarta,2023-01-10
+2,Siti,,Female,unemployed,,Bandung,2023-02-12
+3,Budi,17,Male,employed,3000000,Jakarta,2023-01-20
+4,Ani,45,female,employed,12000000,Surabaya,2022-11-05
+5,Dedi,70,Male,retired,1500000,Medan,2021-06-17
+6,Rina,30,,employed,-4000000,Jakarta,2023-03-01
+7,Tono,200,Male,employed,7000000,Bekasi,2023-02-28
+8,Lina,22,FEMALE,student,0,Depok,2023-01-15
+9,Hadi,65,Male,employed,1800000,Semarang,2022-12-01
+10,Maya,,Female,employed,9000000,Jakarta,2023-03-10
